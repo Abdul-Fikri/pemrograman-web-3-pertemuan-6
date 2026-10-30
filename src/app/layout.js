@@ -28,6 +28,8 @@ return (
             <Link href="/" style={{ color: 'white', textDecoration: 'none' }}>Beranda</Link>
             <Link href="/mahasiswa" style={{ color: 'white', textDecoration: 'none' }}>Direktori Mahasiswa</Link>
             <Link href="/dokumen/2026/kurikulum" style={{ color: 'white', textDecoration: 'none' }}>Arsip Dokumen</Link>
+            <Link href="/matakuliah" style={{ color: 'white', textDecoration: 'none' }}>Mata kuliah</Link>
+
             <Link href="/dashboard" style={{ color: '#fde047', textDecoration: 'none', fontWeight: 'bold' }}>Dashboard KRS</Link>
           </nav>
         </header>

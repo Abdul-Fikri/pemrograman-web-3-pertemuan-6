@@ -9,8 +9,8 @@ const dataMahasiswa = [
 export default function DaftarMahasiswa() {
   return (
     <div>
-      <h1>👨‍🎓 Direktori Mahasiswa Aktif</h1>
-      <p>Klik tombol "Lihat Detail KTM" untuk mencoba fitur Dynamic Route:</p>
+      <h1>Direktori Mahasiswa Aktif</h1>
+
 
       <div style={{ display: 'grid', gap: '12px', marginTop: '16px' }}>
         {dataMahasiswa.map((mhs) => (
